@@ -11,13 +11,15 @@ id = "timestop"
 version = "1.0.0"
 
 # The name that will show up for this mod in the mod menu. This should be human readable.
-display_name = "Dungeon Time Stop"
+display_name = "Time Stop"
 
 # The description that will show up when this mod is displayed in the mod menu. This should be human readable.
 description = """
 Adds the ability to stop the time when in dungeons and temples via the configuration.
+
 Temples covers the four temples and the boss rooms.
-All covers the temples plus any mini-dungeon like Pirate's Fortress, the Well, Ikana Castle etc.
+
+All covers the temples plus any "mini-dungeon" like Pirate's Fortress, the Well, Ikana Castle etc.
 """
 
 # A short description that will show up in this mod's entry in the mod list. This should be human readable and kept short
@@ -62,7 +64,7 @@ data_reference_syms_files = [
 ]
 
 # Additional files to include in the mod.
-additional_files = []
+additional_files = ["thumb.png"]
 
 [[manifest.config_options]]
 id = "timestop_option"

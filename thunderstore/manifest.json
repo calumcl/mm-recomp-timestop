@@ -1,0 +1,7 @@
+{
+    "name": "timestop",
+    "description": "Stops time from flowing in dungeons and other locations.",
+    "version_number": "1.0.0",
+    "dependencies": [],
+    "website_url": "https://github.com/calumcl/mm-recomp-timestop"
+}
